@@ -1,0 +1,9 @@
+/* EMRC motion layer (2026-11-11, GAFI-style redesign).
+   Lenis smooth scroll, Blur Text, Light Rays, Star Border and scroll reveals were removed.
+   CountUp (js/emrc-motion.js) remains for the homepage figures; hover and menu motion live in
+   css/emrc-ds.css next to the components they belong to. */
+
+/* Count Up keeps the final width so the text never jumps */
+.emrc-count {
+    font-variant-numeric: tabular-nums;
+}

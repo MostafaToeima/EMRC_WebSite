@@ -1,0 +1,8 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    { "source": "/default.aspx", "destination": "/", "permanent": true },
+    { "source": "/(.*)\\.aspx", "destination": "/$1", "permanent": true }
+  ]
+}

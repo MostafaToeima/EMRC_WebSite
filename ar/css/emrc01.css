@@ -1,0 +1,274 @@
+﻿body {    text-align: right;
+}
+
+a img  {
+     border: 0;
+}
+.header_txt
+{
+    font-size: 10px;
+    color: white;
+    font-family: Verdana;
+    padding-right: 2px;
+    padding-top: 2px;
+    letter-spacing: normal;
+}
+a.header_txt
+{
+    font-size: 10px;
+    color: white;
+    font-family: Verdana;
+    padding-right: 2px;
+    padding-top: 2px;
+    letter-spacing: normal;
+    text-decoration: none;
+}
+a.header_txt:hover
+{
+    text-decoration: underline;
+}
+.side_menu_parent
+{
+    padding-right: 2px;
+    font-size: 10pt;
+    color: navy;
+    padding-top: 2px;
+    border-bottom: #e0ca9c 1px solid;
+    font-family: Verdana;
+    text-align:right;
+}
+a.side_menu_parent:hover
+{
+    padding-left: 2px;
+    font-size: 10pt;
+    color: navy;
+    padding-top: 2px;
+    border-bottom: #e0ca9c 1px solid;
+    font-family: Verdana;
+    background-color: #e0ca9c;
+}
+
+.footer
+{
+    font-size: 7pt;
+    font-family: Verdana;
+    color: #55547f;
+}
+
+A.footer
+{
+    font-size: 7pt;
+    text-decoration: none;
+}
+.regular
+{
+    padding-right: 2px;
+    padding-left: 2px;
+    font-size: 8pt;
+    padding-bottom: 2px;
+    color: black;
+    padding-top: 2px;
+    font-family: Verdana;
+    text-decoration: none;
+}
+A.regular
+{
+    padding-right: 2px;
+    padding-left: 2px;
+    font-size: 8pt;
+    padding-bottom: 2px;
+    color: #778899;
+    padding-top: 2px;
+    font-family: Verdana;
+    text-decoration: none;
+}
+A.regular:hover
+{
+    padding-right: 2px;
+    padding-left: 2px;
+    font-size: 8pt;
+    padding-bottom: 2px;
+    color: black;
+    padding-top: 2px;
+    font-family: Verdana;
+    text-decoration: none;
+}
+.regular_header
+{
+    padding-right: 2px;
+    padding-left: 2px;
+    font-size: 8pt;
+    padding-bottom: 2px;
+    color: #7989ab;
+    padding-top: 2px;
+    font-family: Verdana;
+    font-weight: bold;
+}
+
+A.regular_header
+{
+    padding-right: 2px;
+    padding-left: 2px;
+    font-size: 8pt;
+    padding-bottom: 2px;
+    color: #7989ab;
+    padding-top: 2px;
+    font-family: Verdana;
+    font-weight: bold;
+    text-decoration :none;
+}
+
+A.regular_header:hover
+{
+    padding-right: 2px;
+    padding-left: 2px;
+    font-size: 8pt;
+    padding-bottom: 2px;
+    color: black;
+    padding-top: 2px;
+    font-family: Verdana;
+    font-weight: bold;
+    text-decoration :none;
+}
+
+
+.regular_header_large
+{
+    padding-right: 2px;
+    padding-left: 2px;
+    font-size: 14pt;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    font-family: Arial;
+    font-weight: bold;
+    color: #585858;
+}
+
+.regular_header_white
+{
+    padding-right: 2px;
+    padding-left: 2px;
+    font-size: 8pt;
+    padding-bottom: 2px;
+    color: #FFFFFF;
+    padding-top: 2px;
+    font-family: Verdana;
+    font-weight: bold;
+}
+.side_header
+{
+    font-weight: bold;
+    font-size: 8pt;
+    color: #7989ab;
+    font-family: Verdana;
+}
+
+.regular_small_bold
+{
+    padding-right: 2px;
+    padding-left: 2px;
+    font-size: 7pt;
+    padding-bottom: 2px;
+    color: black;
+    padding-top: 2px;
+    font-family: Verdana;
+    text-decoration: bold;
+}
+
+.regular_small
+{
+	padding-right: 2px;
+	padding-left: 2px;
+	font-size: 1.00 em;
+	padding-bottom: 2px;
+	color: black;
+	padding-top: 2px;
+	font-family: Verdana;
+	text-decoration: none;
+}
+
+A.regular_small
+{
+    padding-right: 2px;
+    padding-left: 2px;
+    font-size: 7pt;
+    padding-bottom: 2px;
+    color: #666688;
+    padding-top: 2px;
+    font-family: Verdana;
+    text-decoration: none;
+}
+A.regula:hover_small
+{
+    padding-right: 2px;
+    padding-left: 2px;
+    font-size: 7pt;
+    padding-bottom: 2px;
+    color: black;
+    padding-top: 2px;
+    font-family: Verdana;
+    text-decoration: none;
+}
+
+.regular_very_small
+{
+	padding-right: 2px;
+	padding-left: 2px;
+	font-size: 1.00 em;
+	padding-bottom: 2px;
+	color: black;
+	padding-top: 2px;
+	font-family: Verdana;
+	text-decoration: none;
+}
+
+A.regular_very_small
+{
+    padding-right: 2px;
+    padding-left: 2px;
+    font-size: 6pt;
+    padding-bottom: 2px;
+    color: #666688;
+    padding-top: 2px;
+    font-family: Verdana;
+    text-decoration: none;
+}
+A.regula:hover_very_small
+{
+    padding-right: 2px;
+    padding-left: 2px;
+    font-size: 6pt;
+    padding-bottom: 2px;
+    color: black;
+    padding-top: 2px;
+    font-family: Verdana;
+    text-decoration: none;
+}
+
+
+A.side_header
+{
+    font-weight: bold;
+    font-size: 8pt;
+    color: #7989ab;
+    font-family: Verdana;
+    text-decoration: none;
+}
+A.side_header:Hover
+{
+    font-weight: bold;
+    font-size: 8pt;
+    color: #000000;
+    font-family: Verdana;
+    text-decoration: none;
+}
+.gray_bold_header
+{
+    font-size: 11px;
+    color: gray;
+    font-family: Verdana;
+    padding-right: 2px;
+    padding-top: 2px;
+    letter-spacing: normal;
+    font-weight: bold;
+}
